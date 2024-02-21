@@ -1,0 +1,16 @@
+{
+  "name": "node-hof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hof",
+    "higher-order_fuction",
+    "remove-duplicate"
+  ],
+  "author": "sakshi",
+  "license": "ISC"
+}
